@@ -1,0 +1,67 @@
+Name                          Roll                          Cgpa                          
+SAURABH RAJ                   001411001001                  8.22                          
+GAURAV KUMAR                  001411001002                  ---                           
+NEELANJAN SAHA                001411001003                  8.33                          
+UTKARSH                       001411001004                  8.67                          
+SUMAN BISWAS                  001411001005                  7.44                          
+SIDDHARTH MOHAN               001411001006                  7.89                          
+SUBHRODIP MAZUMDAR            001411001007                  8.78                          
+SANCHIT ROHATGI               001411001008                  8.11                          
+OISHI MANDAL                  001411001010                  8.78                          
+ROHAN KUMAR                   001411001011                  8.22                          
+ANKAN SAHA                    001411001013                  8.67                          
+GOPAL GOEL                    001411001014                  9.00                          
+ADITYA SAURABH                001411001016                  7.56                          
+SOURAV BHUWALKA               001411001017                  9.33                          
+RONIT BAIDYA                  001411001018                  7.44                          
+DEVANSHU                      001411001019                  9.44                          
+SAYAN MONDAL                  001411001021                  ---                           
+APURBA JITU HANSDA            001411001022                  6.33                          
+KUSHAL KANTI MAJUMDER         001411001023                  6.78                          
+KISHAN KUMAR                  001411001025                  8.56                          
+RISHAV KRISHNA                001411001026                  8.89                          
+AGNIROOP HALDAR               001411001027                  6.11                          
+AMAN RAJ                      001411001028                  8.67                          
+OMKAR ROHRA                   001411001029                  8.56                          
+MANISH PERIWAL                001411001030                  8.89                          
+GAURAB DASGUPTA               001411001031                  8.44                          
+RISHAV KUMAR                  001411001032                  8.67                          
+SANJAY KUMAR                  001411001033                  8.22                          
+VICKY RANA                    001411001034                  8.11                          
+ISHA BINDAL                   001411001035                  9.00                          
+SHREYA SAHA                   001411001036                  7.67                          
+ARKA SHIT                     001411001037                  7.00                          
+SACHIN KUMAR                  001411001038                  8.78                          
+GOPAL KUMAR JHA               001411001039                  8.44                          
+AKSHAY KISHORE RAI            001411001040                  8.22                          
+DEEP NASKAR                   001411001041                  ---                           
+NAINA KUMARI                  001411001042                  9.33                          
+MANISHA KUMARI                001411001043                  9.22                          
+SUSMITA DAS                   001411001044                  9.00                          
+CHIRAG LOSALKA                001411001045                  8.56                          
+KANAK SAREN                   001411001046                  ---                           
+HIMANSHU BANSAL               001411001047                  8.22                          
+NAZIA MERAJ                   001411001048                  9.00                          
+SAURAV KUMAR                  001411001049                  8.78                          
+ROHIT KASHYAP                 001411001050                  9.22                          
+AKASH BISWAS                  001411001052                  7.00                          
+AMIT KUMAR                    001411001054                  9.22                          
+RAJDEEP BAIN                  001411001055                  ---                           
+RAHUL RANJAN SINHA            001411001056                  7.56                          
+AJAY TIGGA                    001411001057                  7.00                          
+OHM PRAKASH YADAV             001411001058                  8.67                          
+SOUVIK SANKAR MONDAL          001411001059                  ---                           
+PUJA AGARWAL                  001411001060                  9.11                          
+ROHIT KUMAR                   001411001061                  7.78                          
+SHUBHAM GOEL                  001411001062                  9.00                          
+KUMARI SADHANA                001411001063                  8.56                          
+SOUMIT DEBNATH                001411001064                  7.89                          
+DIXITA SIKDER                 001411001065                  6.44                          
+GOPAL KUMAR PANDEY            001411001066                  8.44                          
+ANUPAMA SINGHANIA             001411001067                  9.89                          
+KUMAR HARSHIT                 001411001068                  9.56                          
+NIRAJ KUMAR DUBEY             001411001069                  9.22                          
+HARSHIT AGARWAL               001411001070                  8.56                          
+MOULI MANNA                   301511001001                  7.89                          
+RAJA BISWAS                   301511001002                  6.56                          
+NABAKUMAR GHOSH               301511001003                  ---                           
